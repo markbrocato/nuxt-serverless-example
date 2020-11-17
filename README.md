@@ -1,20 +1,11 @@
 # nuxt-serverless-example
 
-## Build Setup
+## Running the example
 
 ```bash
 # install dependencies
 $ yarn install
 
-# serve with hot reload at localhost:3000
-$ yarn dev
-
-# build for production and launch server
-$ yarn build
+# Build and run server.js
 $ yarn start
-
-# generate static project
-$ yarn generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
